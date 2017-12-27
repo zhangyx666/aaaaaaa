@@ -4,19 +4,5 @@
 public class Begin {
     public static void main(String[] args) {
         System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
-        System.out.println("这个仍然是测试");
     }
 }
