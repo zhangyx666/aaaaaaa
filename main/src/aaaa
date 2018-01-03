@@ -4,4 +4,3 @@ public class Test {
         Ststem.out.println("这是练习git的合并更新代码");
     }
 }
-
